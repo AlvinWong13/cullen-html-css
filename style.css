@@ -5,3 +5,11 @@ body {
 #world {
   border: 3px dashed darkolivegreen;
 }
+
+.special {
+  border: 3px solid pink;
+}
+
+h1.special {
+  background-color: powderblue;
+}
