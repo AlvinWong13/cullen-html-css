@@ -7,9 +7,11 @@ body {
 }
 
 .special {
-  border: 3px solid pink;
+  border: 3px solid black;
 }
 
-h1.special {
-  background-color: powderblue;
+h1.special,
+li:first-child {
+  background-color: pink;
+  border: 1px dotted darkblue;
 }
