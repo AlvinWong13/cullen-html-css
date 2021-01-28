@@ -1,3 +1,7 @@
 body {
   background-color: chocolate;
 }
+
+#world {
+  border: 3px dashed darkolivegreen;
+}
